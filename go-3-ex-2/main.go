@@ -45,7 +45,7 @@ func outputDateRange(zodiacSign rune) {
 	case Pisces:
 		fmt.Println("20.02. - 20.03")
 	default:
-		fmt.Println("Unknown zodiac sign")
+		fmt.Println("Unbekantes Zodiac zeichen")
 	}
 }
 
